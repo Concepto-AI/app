@@ -1,7 +1,7 @@
 <h1>Concepto AI</h1>
 
-<h2>Generate websites with AI</h2>
+<h2>Rapid Prototyping with AI</h2>
 
-<https://concepto-docs.vercel.app>
+<https://conceptoai.app>
 
-Instructions: <https://concepto-docs.vercel.app/self-hosted/setup>
+Instructions: <https://conceptai.app/self-hosted/setup>
